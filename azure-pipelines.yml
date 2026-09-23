@@ -45,5 +45,5 @@ steps:
   inputs:
     azureSubscription: 'Azure Connection'
     appType: 'webApp'
-    appName: 'lnaapank-exercise-13'
+    appName: 'exercise-13-lnaapank'
     package: '$(System.ArtifactsDirectory)/js-e2e-express-server.zip'
